@@ -7,7 +7,7 @@ A very basic spring boot application for beginners with in-memory database. It g
   - Web
   - JPA
   - H2 (in-memory DB)
-  - Thymeleaf
+  - Thymeleaf (template engine)
  
 ### Installation
 
