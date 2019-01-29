@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReadingListApplication",
+            "request": "launch",
+            "mainClass": "com.md.readinglist.ReadingListApplication",
+            "projectName": "readinglist"
+        }
+    ]
+}
